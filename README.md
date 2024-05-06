@@ -32,3 +32,4 @@ Project that does the Gear Trainer, but in rust using a NUCLEO-F446RE (STM32F446
 ## Resources
 
 1. User Manual - https://www.st.com/resource/en/reference_manual/rm0390-stm32f446xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf 
+1. Reference Manual - https://www.st.com/resource/en/datasheet/stm32f446re.pdf 
