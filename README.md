@@ -21,12 +21,10 @@ Project that does the Gear Trainer, but in rust using a NUCLEO-F446RE (STM32F446
     1. Run `cargo install cargo-embed`
 
 ## Building and Flashing
-1. Build the bin file
-    1. Run `cargo build --debug` in your terminal
-    1. Run `cargo build -- release` in your terminal
-1. Flash the bin file (make sure it's plugged in and that you only have 1 plugged in)
-    1. Run `cargo embed --chip STM32F446RETx` in your terminal
-    1. Or `cargo embed` as it's listed in the Embed.toml
+
+1. Build & flash the bin file
+    1. Run `cargo embed --debug` in your terminal
+    1. Run `cargo embed --release` in your terminal
 
 
 ## Resources
