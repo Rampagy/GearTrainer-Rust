@@ -19,6 +19,8 @@ Project that does the Gear Trainer, but in rust using a NUCLEO-F446RE (STM32F446
     1. Run `cargo install cargo-binutils` in your terminal
 1. Add cargo embed tools
     1. Run `cargo install cargo-embed`
+1. Ensure you have the ST-LINK drivers downloaded
+    1. https://www.st.com/en/development-tools/stsw-link007.html#get-software
 
 ## Building and Flashing
 
