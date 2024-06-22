@@ -9,7 +9,7 @@ Project that does the Gear Trainer, but in rust using a NUCLEO-F446RE (STM32F446
 1. Update cargo/rust
     1. Run `rustup update` in command line
 1. Install arm platform support
-    1. Run `rustup target add thumbv7em-none-eabihf` in yout terminal
+    1. Run `rustup target add thumbv7em-none-eabihf` in your terminal
     1. https://doc.rust-lang.org/rustc/platform-support/arm-none-eabi.html
 1. Navigate to desired project folder
     1. ExerciseX/
